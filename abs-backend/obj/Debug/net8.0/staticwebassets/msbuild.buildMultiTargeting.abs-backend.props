@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\abs-backend.props" />
+</Project>

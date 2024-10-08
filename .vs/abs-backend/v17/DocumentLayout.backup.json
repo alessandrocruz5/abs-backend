@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Code\\ASP.NET\\abs-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|f:\\code\\asp.net\\abs-backend\\abs-backend\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|solutionrelative:abs-backend\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|f:\\code\\asp.net\\abs-backend\\abs-backend\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|solutionrelative:abs-backend\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|f:\\code\\asp.net\\abs-backend\\abs-backend\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|solutionrelative:abs-backend\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|f:\\code\\asp.net\\abs-backend\\abs-backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|solutionrelative:abs-backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|f:\\code\\asp.net\\abs-backend\\abs-backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|solutionrelative:abs-backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|f:\\code\\asp.net\\abs-backend\\abs-backend\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|solutionrelative:abs-backend\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|f:\\code\\asp.net\\abs-backend\\abs-backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|solutionrelative:abs-backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|f:\\code\\asp.net\\abs-backend\\abs-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|solutionrelative:abs-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|f:\\code\\asp.net\\abs-backend\\abs-backend\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|solutionrelative:abs-backend\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|f:\\code\\asp.net\\abs-backend\\abs-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|solutionrelative:abs-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|f:\\code\\asp.net\\abs-backend\\abs-backend\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|solutionrelative:abs-backend\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|f:\\code\\asp.net\\abs-backend\\abs-backend\\contexts\\appointmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|solutionrelative:abs-backend\\contexts\\appointmentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|f:\\code\\asp.net\\abs-backend\\abs-backend\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|solutionrelative:abs-backend\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|f:\\code\\asp.net\\abs-backend\\abs-backend\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|solutionrelative:abs-backend\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|f:\\code\\asp.net\\abs-backend\\abs-backend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|solutionrelative:abs-backend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|f:\\code\\asp.net\\abs-backend\\abs-backend\\models\\userupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|solutionrelative:abs-backend\\models\\userupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|f:\\code\\asp.net\\abs-backend\\abs-backend\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|solutionrelative:abs-backend\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|f:\\code\\asp.net\\abs-backend\\abs-backend\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|solutionrelative:abs-backend\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|f:\\code\\asp.net\\abs-backend\\abs-backend\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|solutionrelative:abs-backend\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|f:\\code\\asp.net\\abs-backend\\abs-backend\\repositories\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30EAD252-828D-4FC6-AEE9-D8733643C9B6}|abs-backend\\abs-backend.csproj|solutionrelative:abs-backend\\repositories\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Models\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "abs-backend\\Models\\EmailSettings.cs",
+              "ToolTip": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Models\\EmailSettings.cs",
+              "RelativeToolTip": "abs-backend\\Models\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:08:28.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserUpdateModel.cs",
+              "DocumentMoniker": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Models\\UserUpdateModel.cs",
+              "RelativeDocumentMoniker": "abs-backend\\Models\\UserUpdateModel.cs",
+              "ToolTip": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Models\\UserUpdateModel.cs",
+              "RelativeToolTip": "abs-backend\\Models\\UserUpdateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:48:47.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "abs-backend\\Models\\LoginModel.cs",
+              "ToolTip": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Models\\LoginModel.cs",
+              "RelativeToolTip": "abs-backend\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:47:47.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "abs-backend\\Models\\RegisterModel.cs",
+              "ToolTip": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "abs-backend\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:47:33.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "abs-backend\\Services\\EmailService.cs",
+              "ToolTip": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Services\\EmailService.cs",
+              "RelativeToolTip": "abs-backend\\Services\\EmailService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAgwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:36:19.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "abs-backend\\Services\\IEmailService.cs",
+              "ToolTip": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Services\\IEmailService.cs",
+              "RelativeToolTip": "abs-backend\\Services\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:35:28.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\appsettings.json",
+              "RelativeDocumentMoniker": "abs-backend\\appsettings.json",
+              "ToolTip": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\appsettings.json",
+              "RelativeToolTip": "abs-backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T07:27:44.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "abs-backend\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "abs-backend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwD8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:12:31.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "abs-backend\\Services\\UserService.cs",
+              "ToolTip": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Services\\UserService.cs",
+              "RelativeToolTip": "abs-backend\\Services\\UserService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwCkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:07:42.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "abs-backend\\Services\\IUserService.cs",
+              "ToolTip": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Services\\IUserService.cs",
+              "RelativeToolTip": "abs-backend\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:07:18.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "abs-backend\\Repositories\\UserRepository.cs",
+              "ToolTip": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "abs-backend\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:59:44.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "abs-backend\\Repositories\\IUserRepository.cs",
+              "ToolTip": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "abs-backend\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:59:05.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "abs-backend\\Models\\User.cs",
+              "ToolTip": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Models\\User.cs",
+              "RelativeToolTip": "abs-backend\\Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T06:55:50.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Program.cs",
+              "RelativeDocumentMoniker": "abs-backend\\Program.cs",
+              "ToolTip": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Program.cs",
+              "RelativeToolTip": "abs-backend\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAgwEgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:09:44.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "abs-backend\\Controllers\\AppointmentController.cs",
+              "ToolTip": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "abs-backend\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:07:37.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "abs-backend\\Services\\AppointmentService.cs",
+              "ToolTip": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "abs-backend\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwCkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T07:01:17.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "abs-backend\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "abs-backend\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:51:35.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Repositories\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "abs-backend\\Repositories\\IAppointmentRepository.cs",
+              "ToolTip": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Repositories\\IAppointmentRepository.cs",
+              "RelativeToolTip": "abs-backend\\Repositories\\IAppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:49:47.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppointmentDbContext.cs",
+              "DocumentMoniker": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Contexts\\AppointmentDbContext.cs",
+              "RelativeDocumentMoniker": "abs-backend\\Contexts\\AppointmentDbContext.cs",
+              "ToolTip": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Contexts\\AppointmentDbContext.cs",
+              "RelativeToolTip": "abs-backend\\Contexts\\AppointmentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:39:28.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "abs-backend\\Models\\Appointment.cs",
+              "ToolTip": "F:\\Code\\ASP.NET\\abs-backend\\abs-backend\\Models\\Appointment.cs",
+              "RelativeToolTip": "abs-backend\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:38:23.981Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

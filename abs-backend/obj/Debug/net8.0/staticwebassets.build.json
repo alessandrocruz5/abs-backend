@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SWHWmEt/38GHkq9JIOuRxa7kqx2EUGNJdtlMyvdXPaM=",
+  "Source": "abs-backend",
+  "BasePath": "_content/abs-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
